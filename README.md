@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Girish9611
+- 👀 I’m an aspiring data analyst and programming enthusiast. 
+- 🌱 I'm currently learning about the tools and languages needed for perfoming data analysis with the help of the resources available on the internet. 
+- 🤖 My profile contains a few projects to illustrate my proficiency in a few languages and tools that are used for data analysis. 
